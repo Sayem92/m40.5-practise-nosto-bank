@@ -1,0 +1,12 @@
+
+
+1. What is a call stack?
+2. Tell us about Try-catch?
+3. Name some console APIs.
+4. What is syntax error?
+5. When do we get reference error?
+6. a) what is wrong with the code below:
+        var foo;
+        console.log(foo.bar);
+    b) What type of error will the code generate?
+    c) What is the correct way to write the code?
